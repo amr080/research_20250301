@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="btn-close" sketch:type="MSLayerGroup" transform="translate(2.000000, 2.000000)" stroke="#09B288" stroke-width="3" stroke-linecap="round">
+            <path d="M44.9701,44.9701 L21.9701,21.9701" id="Stroke-1" sketch:type="MSShapeGroup"></path>
+            <path d="M21.9701,44.9701 L44.9701,21.9701" id="Stroke-2" sketch:type="MSShapeGroup"></path>
+            <path d="M66.5625,33.5 C66.5625,51.759125 51.759125,66.5625 33.5,66.5625 C15.240875,66.5625 0.4375,51.759125 0.4375,33.5 C0.4375,15.240875 15.240875,0.4375 33.5,0.4375 C51.759125,0.4375 66.5625,15.240875 66.5625,33.5 L66.5625,33.5 Z" id="Stroke-3" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
