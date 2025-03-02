@@ -12,7 +12,7 @@ https://ac3e91a9f331d1eb9ce826c0df3db5d7c68fa.netlify.app/
 
 https://foundersfund.com/wp-json/wp-api-menus/v2
 https://foundersfund.com/wp-admin/authorize-application.php
-
+https://ac3e91a9f331d1eb9ce826c0df3db5d7c68fa.netlify.app/_foundersfund/wp-json/index.html
 
 
 
