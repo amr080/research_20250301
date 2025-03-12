@@ -1,3 +1,300 @@
+{pageProps: {,…}, __N_SSG: true}
+pageProps
+: 
+{,…}
+components
+: 
+[{_type: "teamGridPage", _key: "73e3a125e635", tags: [,…],…}]
+0
+: 
+{_type: "teamGridPage", _key: "73e3a125e635", tags: [,…],…}
+tags
+: 
+[,…]
+teamMembers
+: 
+[{_type: "teamMember", hideOnAll: null, portrait: {_key: null, alt: null,…}, slug: "matt-huang",…},…]
+0
+: 
+{_type: "teamMember", hideOnAll: null, portrait: {_key: null, alt: null,…}, slug: "matt-huang",…}
+1
+: 
+{_type: "teamMember", slug: "fred-ehrsam", _id: "2e5c876a-0a56-4b5a-af74-8d34ae49ecf3", tags: [,…],…}
+2
+: 
+{slug: "alana-palmedo", tags: [,…],…}
+3
+: 
+{slug: "charlie-noyes", hideOnAll: null, title: "General Partner", tags: [,…],…}
+4
+: 
+{_key: "968164094555", _type: "teamMember",…}
+5
+: 
+{,…}
+6
+: 
+{_key: "894182b61b18", _type: "teamMember", _id: "856bc145-6791-4a5d-b7a9-ac440376f9fa",…}
+7
+: 
+{,…}
+8
+: 
+{hideOnAll: null,…}
+9
+: 
+{_key: "e66e704e8d28", _type: "teamMember", title: "Partner, Investing & Research",…}
+10
+: 
+{_id: "f4e0cb75-1648-40fb-b4e1-25955f258bff", hideOnAll: null, slug: "frankie",…}
+11
+: 
+{_type: "teamMember", slug: "samczsun", title: "Research Partner", name: "samczsun", biography: [,…],…}
+12
+: 
+{_key: "93cbc76a24d2", hideOnAll: null,…}
+13
+: 
+{_type: "teamMember", _id: "510c0af4-0d4b-4474-8410-f7402521643d", title: "Research Associate",…}
+14
+: 
+{tags: [{_id: "3a33eee2-efb0-4c98-b828-5b7fc8bc7e89", slug: "portfolio-ops",…},…], slug: "david-swain",…}
+15
+: 
+{title: "CLO, Partner", slug: "katie-biber", name: "Katie Biber", hideOnAll: null,…}
+16
+: 
+{_type: "teamMember", biography: [,…], links: [,…], _id: "0fda2a82-2573-45fa-888d-fedc86351433",…}
+17
+: 
+{_key: "d0885e6417ef",…}
+18
+: 
+{_key: "36251a66c10e", _type: "teamMember", title: "Software Engineer", hideOnAll: null,…}
+19
+: 
+{,…}
+20
+: 
+{portrait: {,…},…}
+21
+: 
+{_key: "5030a5f0b785", _type: "teamMember", title: "VP of Government Affairs",…}
+22
+: 
+{slug: "alex-popescu",…}
+23
+: 
+{_key: "a9c3a7fecbce", _type: "teamMember", _id: "35c1f462-3998-41ee-b14e-83f6b33473f2",…}
+24
+: 
+{,…}
+25
+: 
+{_key: "4bd9344f6d8f", slug: "anita-wong",…}
+26
+: 
+{slug: "ben-hinshaw", _type: "teamMember",…}
+27
+: 
+{slug: "brandon-wong",…}
+28
+: 
+{hideOnAll: null, portrait: {_key: null, alt: null,…}, biography: [,…],…}
+29
+: 
+{name: "Chentai Kao",…}
+30
+: 
+{slug: "chris-shu", _type: "teamMember",…}
+31
+: 
+{,…}
+32
+: 
+{links: [{_type: "link", _key: "d4cdc17fd971", title: "LinkedIn",…},…], _key: "de124c7eddc5",…}
+33
+: 
+{slug: "derek-gould",…}
+34
+: 
+{_type: "teamMember", portrait: {_type: "imageAlt", _key: null, alt: null,…},…}
+35
+: 
+{links: [{openInNewWindow: true, _type: "link", _key: "f570ade4bd51", title: "LinkedIn",…}],…}
+36
+: 
+{_key: "27693cb100c3", _type: "teamMember", hideOnAll: null,…}
+37
+: 
+{slug: "gianna-golding",…}
+38
+: 
+{tags: [{_id: "3a33eee2-efb0-4c98-b828-5b7fc8bc7e89", slug: "portfolio-ops",…},…],…}
+39
+: 
+{_key: "4ee0a711c221", _type: "teamMember",…}
+40
+: 
+{title: "Senior Executive Assistant", slug: "holly-morgan-winsdale",…}
+41
+: 
+{_key: "35af40c96edc",…}
+42
+: 
+{_type: "teamMember", tags: [,…], title: "Executive Assistant", hideOnAll: null,…}
+43
+: 
+{_type: "teamMember", hideOnAll: null,…}
+44
+: 
+{portrait: {,…}, _id: "e1815fa4-3bbf-4620-b342-08daaf7eab62", slug: "justin-slaughter",…}
+45
+: 
+{_type: "teamMember", links: [,…], hideOnAll: null,…}
+46
+: 
+{_key: "a685f00b0f03", hideOnAll: null, _id: "0069dbb2-4689-4e89-94be-91b6c5b875b5",…}
+47
+: 
+{_key: "f0880e647439", _type: "teamMember", title: "VP of Finance", slug: "laura-tse",…}
+48
+: 
+{_type: "teamMember", hideOnAll: null, slug: "lindsay-slocum",…}
+49
+: 
+{tags: [{_id: "3a33eee2-efb0-4c98-b828-5b7fc8bc7e89", slug: "portfolio-ops",…},…],…}
+50
+: 
+{portrait: {_type: "imageAlt", _key: null, alt: null,…}, _key: "e109dbc8f444", name: "Matt Johnson",…}
+51
+: 
+{_key: "7e13f84f9ba7", title: "Senior Executive Assistant",…}
+52
+: 
+{_key: "dc4624f1a8ff",…}
+53
+: 
+{_id: "e46c083a-4a52-4491-8385-5b469d3343fa",…}
+54
+: 
+{_type: "teamMember", hideOnAll: null,…}
+55
+: 
+{_id: "cc0a5cdf-1f09-4362-b5f6-b706f8ca1347", title: "Head of Market Development", links: [,…],…}
+56
+: 
+{links: [{_type: "link", _key: "42b10061d2b7", title: "LinkedIn",…}], _key: "e8e02e757140",…}
+57
+: 
+{tags: [{_id: "3a33eee2-efb0-4c98-b828-5b7fc8bc7e89", slug: "portfolio-ops",…},…], name: "Peggy Yan",…}
+58
+: 
+{_type: "teamMember", slug: "sarinna-flores", portrait: {_type: "imageAlt", _key: null, alt: null,…},…}
+59
+: 
+{links: [{openInNewWindow: true, _type: "link", _key: "68a5725fcaa7", title: "LinkedIn",…}],…}
+60
+: 
+{title: "Head of Business Operations", _key: "848cd34e1aa0", _type: "teamMember", hideOnAll: null,…}
+61
+: 
+{hideOnAll: null, slug: "tony-coppola", _key: "bfa3a8daf530", title: "Event Manager",…}
+62
+: 
+{_key: "0b91e9a67fc3", _id: "5a2dabcd-cb11-471f-9d74-220aa42ca4ad", name: "Vidhu Pinnamaraju",…}
+63
+: 
+{_id: "40de4738-6a4a-43c0-80e3-fc1d957dea40",…}
+64
+: 
+{_key: "2ba73f95cbbf", title: "Head of Design", _id: "2024ce9d-1173-4394-b523-467f3086a7fc",…}
+65
+: 
+{_key: "bd5b6fde3f1e", name: "Ciamac Moallemi", title: "Research Advisor", slug: "ciamac-moallemi",…}
+66
+: 
+{_type: "teamMember",…}
+67
+: 
+{_type: "teamMember", name: "Sofiane Larbi", hideOnAll: null, title: "EIR",…}
+68
+: 
+{name: "Pat Toomey", portrait: {_type: "imageAlt", _key: null, alt: null,…}, _key: "5139c1bd448b",…}
+69
+: 
+{,…}
+70
+: 
+{_key: "7c9095882c0b", _type: "teamMember",…}
+71
+: 
+{name: "Steve Israel",…}
+72
+: 
+{links: null, hideOnAll: true, _type: "teamMember",…}
+73
+: 
+{_key: "925314fc4d94", _type: "teamMember",…}
+74
+: 
+{_key: "1e303d06f41f", _type: "teamMember", _id: "44dbe067-7825-48e9-a923-1bc1dc8aaf44",…}
+75
+: 
+{_key: "235eabdeefd3", _type: "teamMember",…}
+76
+: 
+{portrait: {_type: "imageAlt", _key: null, alt: null,…}, _key: "c9d16ff853e3", biography: null,…}
+77
+: 
+{_id: "5b589b42-4ab2-4432-85ec-f42a1f3b36d8", hideOnAll: true, slug: "alexander-b-gray",…}
+78
+: 
+{name: "Jen Brown", slug: "jen-brown",…}
+79
+: 
+{_key: "4cb9f401a093",…}
+80
+: 
+{_key: "b07fd901596a", _type: "teamMember", hideOnAll: true,…}
+_key
+: 
+"73e3a125e635"
+_type
+: 
+"teamGridPage"
+config
+: 
+{seo: {,…}}
+layout
+: 
+{header: {,…}, footer: {linkColumns: [{_key: "520a97f1c3b3",…},…],…}, postDisclaimer: {,…},…}
+passwordProtection
+: 
+{enablePassword: false, password: "paradigm"}
+seo
+: 
+{metaKeywords: null, openGraphTitle: "Team",…}
+slug
+: 
+"team"
+tableOfContents
+: 
+null
+title
+: 
+"Team"
+_id
+: 
+"c0cc1f2f-202f-4d37-b5bb-dc9edb7edf62"
+_type
+: 
+"page"
+__N_SSG
+: 
+true
+
+
 [
     {
         "_type": "teamMember",
