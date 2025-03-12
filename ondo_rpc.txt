@@ -1,0 +1,712 @@
+
+
+
+
+
+https://eth-mainnet.alchemyapi.io/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+https://polygon-mainnet.g.alchemy.com/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+https://mantle-mainnet.g.alchemy.com/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+https://arb-mainnet.g.alchemy.com/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+
+
+https://keys.coinbase.com/connec
+
+
+
+
+
+
+https://subgraph.satsuma-prod.com/115782bff0b0/ondo/rusdy-polygon-test/version/v0.0.3/api
+https://subgraph.satsuma-prod.com/115782bff0b0/ondo/ousg-ethereum-test/version/0.0.1/api
+https://subgraph.satsuma-prod.com/115782bff0b0/ondo/rusdy-polygon-test/version/v0.0.3/api
+https://docs.ondo.finance
+https://blog.ondo.finance
+https://www.dropbox.com/scl/fi/54pckbfyzghv12vg2016l/USDY-LLC-Signed-Document-Packet.pdf?rlkey=4ropylhwit18dbvy8378v39v7&dl=1
+https://subgraph.satsuma-prod.com/115782bff0b0/ondo/musd-mantle-test/api
+https://subgraph.satsuma-prod.com/115782bff0b0/ondo/ousg-ethereum-prod/version/0.0.1/api
+https://subgraph.satsuma-prod.com/115782bff0b0/ondo/rusdy-ethereum-prod/version/v0.0.2/api
+https://subgraph.satsuma-prod.com/115782bff0b0/ondo/musd-mantle-prod/api
+
+
+
+
+
+
+
+
+
+
+
+sitekey: "6Lduo6wiAAAAAESScOpS0B60IobUKkpE1waWWAeq",
+
+
+
+
+
+        let a = {
+            TOKEN: {
+                id: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                name: "USD Coin",
+                symbol: "USDC",
+                decimals: 6
+            }
+        }
+          , n = {
+            TOKEN: {
+                id: "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+                name: "USD Coin",
+                symbol: "USDC",
+                decimals: 6
+            }
+        }
+          , s = {
+            TOKEN: {
+                id: "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+                name: "Tether USD",
+                symbol: "USDT",
+                decimals: 6
+            }
+        }
+          , r = {
+            TOKEN: {
+                id: "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+                name: "Tether USD",
+                symbol: "USDT",
+                decimals: 6
+            }
+        }
+          , u = {
+            TOKEN: {
+                id: "0X201EBA5CC46D216CE6DC03F6A759E8E766E956AE",
+                name: "Tether USD",
+                symbol: "USDT",
+                decimals: 6
+            }
+        }
+          , i = "0x57Dd4E92712b0fBC8d3f3e3645EebCf2600aCef0";
+        BigInt(0xfc185b),
+        BigInt(0x1054d69);
+        let o = "0x7cE91291846502D50D635163135B2d40a602dc70"
+          , d = "0x7cD852c0D7613aA869e632929560f310D4059AC1"
+          , c = "0x730e077730BC25c1c92e2c078e3BaB2834775217"
+          , y = "0xAbfB6C4a338f3780b35FdEEE11e6bB445F13BDc4"
+          , g = "0x9b013b4e03b87295a68a19B1A55e3C7DC3c56FFa"
+          , p = "0x9BfDF8c3B8Bfc9Ab06897603c647Aa9C4204D63a"
+          , m = {
+            TOKEN: {
+                id: "0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92",
+                name: "Ondo Short-Term U.S. Government Bond Fund",
+                symbol: "OUSG",
+                decimals: 18
+            },
+            ORACLE: "0x0502c5ae08E7CD64fe1AEDA7D6e229413eCC6abe",
+            MANAGER: "0xF16c188c2D411627d39655A60409eC6707D3d5e8"
+        }
+          , f = {
+            TOKEN: {
+                id: "0x54043c656F0FAd0652D9Ae2603cDF347c5578d00",
+                name: "Ondo Short-Term U.S. Government Bond Fund (Rebasing)",
+                symbol: "rOUSG",
+                decimals: 18
+            },
+            MANAGER: "0x2826989983e3a66F0622132D019c2Ae173eb6A43"
+        }
+          , h = {
+            TOKEN: {
+                id: "0x7712c34205737192402172409a8F7ccef8aA2AEc",
+                name: "BlackRock USD Institutional Digital Liquidity Fund",
+                symbol: "BUIDL",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+          , b = {
+            TOKEN: {
+                id: "0xbA11C5effA33c4D6F8f593CFA394241CfE925811",
+                name: "Ondo Short-Term U.S. Government Bond Fund",
+                symbol: "OUSG",
+                decimals: 18
+            },
+            MANAGER: "0x6B7443808ACFCD48f1DE212C2557462fA86Ee945"
+        }
+          , x = {
+            TOKEN: {
+                id: "i7u4r16TcsJTgq1kAG8opmVZyVnAKBwLKu6ZPMwzxNc",
+                name: "Ondo Short-Term U.S. Government Bond Fund",
+                symbol: "OUSG",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+          , S = {
+            TOKEN: {
+                id: "0x372d5d02c6b4075bd58892f80300cA590e92d29E",
+                name: "Test OUSG",
+                symbol: "t-OUSG",
+                decimals: 18
+            },
+            MANAGER: "0xEb9a2304bE212C01597E1cA352e44B151b81736B"
+        }
+          , k = {
+            TOKEN: {
+                id: "0xe25D3fd9dcd38450D8A155441801801046b662a1",
+                name: "Test OUSG",
+                symbol: "t-OUSG",
+                decimals: 18
+            },
+            ORACLE: "0x37cd0ba94f6f1803226463c21f12aaac032e8352",
+            MANAGER: "0xd3978611616aa6712aeD96E58AD243993f108C75"
+        }
+          , E = {
+            TOKEN: {
+                id: "0x867dc726ba45581D5fb947A4e0CEC88E03Ffa7d2",
+                name: "Test Rebasing OUSG",
+                symbol: "t-rOUSG",
+                decimals: 18
+            },
+            MANAGER: "0xEb9a2304bE212C01597E1cA352e44B151b81736B"
+        }
+          , A = {
+            TOKEN: {
+                id: "0x6350c112fa29b2cef7Aa6a1d8875e1Ff0c35Fa01",
+                name: "Test Rebasing OUSG",
+                symbol: "t-rOUSG",
+                decimals: 18
+            },
+            MANAGER: "0x31aff8a31eF7cB137F4a8A7fF8A22d7b5535d46b"
+        }
+          , D = {
+            TOKEN: {
+                id: "0xF11a13eAc0CFa56B45C735ead2e6ac5A79E43C96",
+                name: "Test BUIDL",
+                symbol: "t-BUIDL",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+          , v = {
+            TOKEN: {
+                id: "BX5mLmToY3jUPEtaAEo86j7oTUJDBzHCx57sCPci7NsU",
+                name: "Test OUSG",
+                symbol: "t-OUSG",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+          , F = {
+            TOKEN: {
+                id: "0xd7F3E8E951E314725C440707862381a7d549d83d",
+                name: "Ondo U.S. Dollar Yield",
+                symbol: "USDY",
+                decimals: 18
+            },
+            MANAGER: null
+        }
+          , C = {
+            TOKEN: {
+                id: "ausdy",
+                name: "Ondo U.S. Dollar Yield",
+                symbol: "USDY",
+                decimals: 18
+            },
+            MANAGER: null
+        }
+          , R = {
+            TOKEN: {
+                id: "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+                name: "Ondo U.S. Dollar Yield",
+                symbol: "USDY",
+                decimals: 18
+            },
+            MANAGER: "0x25A103A1D6AeC5967c1A4fe2039cdc514886b97e",
+            SOURCE_BRIDGE: "0xa6275720b3fB1Efe3E6EF2b5BF2293148852307D"
+        }
+          , U = {
+            TOKEN: {
+                id: "0xaf37c1167910ebC994e266949387d2c7C326b879",
+                name: "Ondo U.S. Dollar Yield (Rebasing)",
+                symbol: "rUSDY",
+                decimals: 18
+            },
+            MANAGER: null
+        }
+          , N = {
+            TOKEN: {
+                id: "0x5bE26527e817998A7206475496fDE1E68957c5A6",
+                name: "Ondo U.S. Dollar Yield",
+                symbol: "USDY",
+                decimals: 18
+            },
+            MANAGER: null,
+            SOURCE_BRIDGE: "0x0bE393DC46248E4285dc5CAcA3084bc7e9bfbB41"
+        }
+          , B = {
+            TOKEN: {
+                id: "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+                name: "Ondo U.S. Dollar Yield",
+                symbol: "USDY",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+          , O = {
+            TOKEN: {
+                id: "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
+                name: "Ondo US Dollar Yield",
+                symbol: "USDY",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+          , T = {
+            TOKEN: {
+                id: "0xab575258d37EaA5C8956EfABe71F4eE8F6397cF3",
+                name: "Mantle USD",
+                symbol: "mUSD",
+                decimals: 18
+            },
+            MANAGER: null
+        }
+          , z = {
+            TOKEN: {
+                id: "0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D",
+                name: "Ondo U.S. Dollar Yield",
+                symbol: "USDY",
+                decimals: 18
+            },
+            SOURCE_BRIDGE: "0x0bE393DC46248E4285dc5CAcA3084bc7e9bfbB41",
+            MANAGER: null
+        }
+          , M = {
+            TOKEN: {
+                id: "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc::usdy::USDY",
+                name: "Ondo US Dollar Yield",
+                symbol: "USDY",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+          , w = {
+            TOKEN: {
+                id: "0x49Cc578ae695a66c45eeF728f2aaf22646363cc6",
+                name: "Test USDY",
+                symbol: "t-USDY",
+                decimals: 18
+            },
+            MANAGER: "0xaB5346A06Fa672792233D22E7c5E326d080BA6B6",
+            SOURCE_BRIDGE: "0x099C9A1F29822cfB01512DB5aB4981cd0487C2c4"
+        }
+          , I = {
+            TOKEN: {
+                id: "0x6772569cB12d0C42c1B03737D5Ea2A13517D65F5",
+                name: "Test USDY",
+                symbol: "t-USDY",
+                decimals: 18
+            },
+            MANAGER: null,
+            SOURCE_BRIDGE: "0xF6c7395203174F7A3B3DE24E9d3280CE4dCC3380"
+        }
+          , G = {
+            TOKEN: {
+                id: "0x82EC889F5E0e5dB4dcc885546553205394E5efd4",
+                name: "Test USDY",
+                symbol: "t-USDY",
+                decimals: 18
+            },
+            MANAGER: null,
+            SOURCE_BRIDGE: "0x8F24d6d6F73e00a74592820ceD76D89802b66DF5"
+        }
+          , L = {
+            TOKEN: {
+                id: "0x62D4cd9DE94faC3755b1513aaF67c31EC1b3d77f",
+                name: "Test USDY",
+                symbol: "t-USDY",
+                decimals: 18
+            },
+            MANAGER: null
+        }
+          , Y = {
+            TOKEN: {
+                id: "0x2eBAcEBefF4A9A1D64df518C3cE9DFE76a27c1A7",
+                name: "Test USDY",
+                symbol: "t-USDY",
+                decimals: 18
+            },
+            MANAGER: "0xf8481A378345773D9ff6e31CBf011Be7b9413721",
+            SOURCE_BRIDGE: "0xc279155f191609b90e443c390c7db4a5b9e62ca1"
+        }
+          , K = {
+            TOKEN: {
+                id: "0x54043c656F0FAd0652D9Ae2603cDF347c5578d00",
+                name: "Test - Rebasing Ondo U.S. Dollar Yield",
+                symbol: "t-rUSDY",
+                decimals: 18
+            },
+            MANAGER: null
+        }
+          , _ = {
+            TOKEN: {
+                id: "0x2eBAcEBefF4A9A1D64df518C3cE9DFE76a27c1A7",
+                name: "Test USDY",
+                symbol: "t-USDY",
+                decimals: 18
+            },
+            MANAGER: null,
+            SOURCE_BRIDGE: "0x11377D0A4f925f15272dE4ca2A3eC632A22c9C56"
+        }
+          , P = {
+            TOKEN: {
+                id: "0x62D4cd9DE94faC3755b1513aaF67c31EC1b3d77f",
+                name: "Test USDY",
+                symbol: "t-USDY",
+                decimals: 18
+            },
+            MANAGER: null,
+            SOURCE_BRIDGE: "0x1D6B6450cf6d969027C74e94cD81C5B026C44FA7"
+        }
+          , W = {
+            TOKEN: {
+                id: "0xa45fa952a312a0a504fafb9bf3fc95faaccdfe613a740190c511663600d39010::usdys::USDYS",
+                name: "Ondo US Dollar Yield",
+                symbol: "USDY",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+          , H = {
+            TOKEN: {
+                id: "0x26f03cd414cdcae387961058ab5523a4e64559f4b0853c46c9b3c4e01fd8af9b::usdy_staging::USDY_STAGING",
+                name: "Ondo US Dollar Yield",
+                symbol: "USDY",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+          , j = {
+            TOKEN: {
+                id: "0xb2e7f93afDee56C2945629e2E2B07cedAc827060",
+                name: "Test Rebasing Ondo U.S. Dollar Yield",
+                symbol: "t-mUSD",
+                decimals: 18
+            },
+            MANAGER: null
+        }
+          , $ = {
+            TOKEN: {
+                id: "4GZcd5UFKorBnL4Ck47BjvvMgahzijZS4JsX9kFXZ3iC",
+                name: "Test USDY",
+                symbol: "t-USDY",
+                decimals: 6
+            },
+            MANAGER: null
+        }
+    }
+
+GOOGLE
+"config", "G-14B7MN928W"
+src: "https://maps.googleapis.com/maps/api/js?key=".concat("AIzaSyAJYMGP6wu9OhLK5lJkbH8qAlPasvcZaY0", "&libraries=places&loading=async&callback=Function.prototype"),
+
+            environmentId: "c1dc2beb-78e3-4fd3-8b32-2f5d3c6fcd8c",
+
+
+
+let r = {
+                "0x1": `https://mainnet.infura.io/v3/${n}`,
+                "0x5": `https://goerli.infura.io/v3/${n}`,
+                "0xaa36a7": `https://sepolia.infura.io/v3/${n}`,
+                "0xe708": `https://linea-mainnet.infura.io/v3/${n}`,
+                "0xe704": `https://linea-goerli.infura.io/v3/${n}`,
+                "0x89": `https://polygon-mainnet.infura.io/v3/${n}`,
+                "0x13881": `https://polygon-mumbai.infura.io/v3/${n}`,
+                "0x45": `https://optimism-mainnet.infura.io/v3/${n}`,
+                "0x1a4": `https://optimism-goerli.infura.io/v3/${n}`,
+                "0xa4b1": `https://arbitrum-mainnet.infura.io/v3/${n}`,
+                "0x66eed": `https://arbitrum-goerli.infura.io/v3/${n}`,
+                "0x2a15c308d": `https://palm-mainnet.infura.io/v3/${n}`,
+                "0x2a15c3083": `https://palm-testnet.infura.io/v3/${n}`,
+                "0xa86a": `https://avalanche-mainnet.infura.io/v3/${n}`,
+                "0xa869": `https://avalanche-fuji.infura.io/v3/${n}`,
+                "0x4e454152": `https://aurora-mainnet.infura.io/v3/${n}`,
+                "0x4e454153": `https://aurora-testnet.infura.io/v3/${n}`,
+                "0x534e5f4d41494e": `https://starknet-mainnet.infura.io/v3/${n}`,
+                "0x534e5f474f45524c49": `https://starknet-goerli.infura.io/v3/${n}`,
+                "0x534e5f474f45524c4932": `https://starknet-goerli2.infura.io/v3/${n}`,
+                "0xa4ec": `https://celo-mainnet.infura.io/v3/${n}`,
+                "0xaef3": `https://celo-alfajores.infura.io/v3/${n}`
+            };
+
+
+        i(87358);
+        var n = function(e) {
+            return e.KYB = "itmpl_KkzV82Vs9RJSmBVHgEoHvPDQ",
+            e.KYC = "itmpl_BaFZyz2ewEMuSmsQk1RdAPKq",
+            e
+        }({})
+
+
+
+                args: ["0x6080604052348015600e575f80fd5b5061016d8061001c5f395ff3fe608060405234801561000f575f80fd5b5060043610610029575f3560e01c8063f8b2cb4f1461002d575b5f80fd5b610047600480360381019061004291906100db565b61005d565b604051610054919061011e565b60405180910390f35b5f8173ffffffffffffffffffffffffffffffffffffffff16319050919050565b5f80fd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f6100aa82610081565b9050919050565b6100ba816100a0565b81146100c4575f80fd5b50565b5f813590506100d5816100b1565b92915050565b5f602082840312156100f0576100ef61007d565b5b5f6100fd848285016100c7565b91505092915050565b5f819050919050565b61011881610106565b82525050565b5f6020820190506101315f83018461010f565b9291505056fea26469706673582212203b9fe929fe995c7cf9887f0bdba8a36dd78e8b73f149b17d2d9ad7cd09d2dc6264736f6c634300081a0033", function(e, ...t) {
+
+                           b: "field"
+                        }, {
+                            allowedPrivateKeyLengths: "array",
+                            wrapPrivateKey: "boolean",
+                            isTorsionFree: "function",
+                            clearCofactor: "function",
+                            allowInfinityPoint: "boolean",
+                            fromBytes: "function",
+                            toBytes: "function"
+                        });
+
+sitekey: "6Lduo6wiAAAAAESScOpS0B60IobUKkpE1waWWAeq",
+
+docsPath: "/docs/contract/simulateContract",
+
+        let h = "0x6492649264926492649264926492649264926492649264926492649264926492";
+
+        c.prismaVersion = {
+            client: "5.22.0",
+            engine: "605197351a3c8bdd595af2d2a9bc3025bca48ea2"
+        },
+
+
+MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr
+
+
+5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp
+"101" : "mainnet" : "EtWTRABZaYq6iMfeYKouRu166VU2xqa1" === n ? e ? "103" : "devnet" : e ? "102" : "testnet"
+
+
+
+
+"5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp" === (n = n.substring(0, 32))) ? e ? "101" : "mainnet" : "EtWTRABZaYq6iMfeYKouRu166VU2xqa1" === n ? e ? "103" : "devnet" : e ? "102" : "testnet"
+let W = new s.J3("MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr");
+
+
+
+
+            let t = await fetch("/api/walletscreen?address=".concat(e));
+
+
+
+
+
+let s = "TRUE" !== r(87358).env.NEXT_PUBLIC_DISABLE_GEOFENCE
+          , a = async e => {
+            if (!s)
+                return !1;
+            try {
+                let t = await fetch("/api/ipcomply?restriction_type=".concat(e), {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    }
+                });
+                return await o(t),
+                await c(t)
+            } catch (e) {
+                n.Ay.error("An error occured while requesting ipcomply data", e)
+            }
+            return !1
+        }
+
+
+
+
+
+
+
+
+
+            chains: o,
+            multiInjectedProviderDiscovery: !1,
+            transports: {
+                [i.uk.id]: (0,
+                r.L)("https://eth-mainnet.alchemyapi.io/v2/".concat("WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H")),
+                [i.n1.id]: (0,
+                r.L)("https://polygon-mainnet.g.alchemy.com/v2/".concat("WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H")),
+                [i.S5.id]: (0,
+                r.L)("https://mantle-mainnet.g.alchemy.com/v2/".concat("WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H")),
+                [i.D8.id]: (0,
+                r.L)("https://arb-mainnet.g.alchemy.com/v2/".concat("WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H"))
+            }
+
+
+
+
+
+
+
+  c && (l = null === (o = null === (i = null == e ? void 0 : e.customRpcUrls) || void 0 === i ? void 0 : i.eclipse) || void 0 === o ? void 0 : o[0]),
+            l || (null === (a = t.privateCustomerRpcUrls) || void 0 === a ? void 0 : a[0]) || t.rpcUrls[0]
+        }
+          , F = {
+            blockExplorerUrls: ["https://explorer.solana.com"],
+            chainId: "101",
+            genesisHash: "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+            iconUrls: ["https://app.dynamic.xyz/assets/networks/solana.svg"],
+            name: "Solana Mainnet",
+            nativeCurrency: {
+                decimals: 9,
+                iconUrl: "https://app.dynamic.xyz/assets/networks/solana.svg",
+                name: "Solana",
+                pricingProviderTokenId: "solana",
+                symbol: "SOL"
+            },
+            networkId: "101",
+            rpcUrls: ["https://api.mainnet-beta.solana.com"],
+            vanityName: "Solana"
+        }
+          , B = {
+            blockExplorerUrls: ["https://explorer.solana.com/?cluster=testnet"],
+            chainId: "102",
+            genesisHash: "4uhcVJyU9pJkvQyS88uRDiswHXSCkY3z",
+            iconUrls: ["https://app.dynamic.xyz/assets/networks/solana.svg"],
+            name: "Solana Testnet",
+            nativeCurrency: {
+                decimals: 9,
+                iconUrl: "https://app.dynamic.xyz/assets/networks/solana.svg",
+                name: "Solana",
+                pricingProviderTokenId: "solana",
+                symbol: "SOL"
+            },
+            networkId: "102",
+            rpcUrls: ["https://api.testnet.solana.com"]
+        }
+          , L = {
+            blockExplorerUrls: ["https://explorer.solana.com/?cluster=devnet"],
+            chainId: "103",
+            genesisHash: "EtWTRABZaYq6iMfeYKouRu166VU2xqa1wcaWoxPkrZBG",
+            iconUrls: ["https://app.dynamic.xyz/assets/networks/solana.svg"],
+            name: "Solana Devnet",
+            nativeCurrency: {
+                decimals: 9,
+                iconUrl: "https://app.dynamic.xyz/assets/networks/solana.svg",
+                name: "Solana",
+                pricingProviderTokenId: "solana",
+                symbol: "SOL"
+            },
+            networkId: "103",
+            rpcUrls: ["https://api.devnet.solana.com"]
+        }
+          , U = (e, t) => {
+            if (!(null == e ? void 0 : e.length))
+                return [];
+            if (e.length > 1)
+                return e;
+            let n = M(t, e[0]);
+            return n.includes("testnet") ? [Object.assign(Object.assign({}, B), {
+                privateCustomerRpcUrls: [n]
+            })] : n.includes("devnet") ? [Object.assign(Object.assign({}, L), {
+                privateCustomerRpcUrls: [n]
+            })] : n.includes("mainnet") ? [Object.assign(Object.assign({}, F), {
+                privateCustomerRpcUrls: [n]
+            })] : e
+        }
+        ;
+        var D = n(75927).Buffer;
+        let W = new s.J3("MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr");
+        class z extends c.gy {
+            getNetwork() {
+                return l(this, arguments, void 0, function*() {
+                    let e = arguments.length > 0 && void 0 !== arguments[0] && arguments[0]
+                      , t = this.getWalletClient()
+                      , n = localStorage.getItem(R(t.rpcEndpoint));
+                    return (n || (n = yield t.getGenesisHash(),
+                    localStorage.setItem(R(t.rpcEndpoint), n)),
+                    "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp" === (n = n.substring(0, 32))) ? e ? "101" : "mainnet" : "EtWTRABZaYq6iMfeYKouRu166VU2xqa1" === n ? e ? "103" : "devnet" : e ? "102" : "testnet"
+                })
+            }
+            endSession()
+
+
+
+
+s.jsx)(u.Button, {
+    variant: "primary",
+    href: "/usdy/invest?origin=usdy",
+    children: "Buy USDY"
+}), (0,
+s.jsx)(u.Button, {
+    variant: "secondary",
+    href: "/usdy/redeem?origin=usdy",
+    children: "Redeem USDY"
+})]
+
+
+
+apiKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb21wYW55X2lkIjoiNjM1MzQwMDMzOTVhMDQwMDAxNDhiZWZiIiwiaWF0IjoxNjY2NDAwMjU5fQ.sI3ARA228nZtCKX4GDq-d1RHWrGyB1p881ReXLM7jMQ'\n          };\n\n          (function(i,t,e,r,a){if(t.getElementById(r)){return}\n          i.IterateObjectName=a;var z=function(){z.c(arguments)};z.q=[];\n          z.c=function(args){z.q.push(args)};i[a]=z;\n          function l() {var js,fjs=t.getElementsByTagName(e)[0];js=t.createElement(e);js.id=r;js.async=1;js.src=\"https://platform.iteratehq.com/loader.js\";fjs.parentNode.insertBefore(js,fjs)};\n          if(t.readyState===\"complete\") {l();} else if(i.attachEvent) {i.attachEvent('onload', l);} else{i.addEventListener('load', l, false);}\n          }(window, document,'script','iterate-js','Iterate'));\n       
+
+
+return e.PostMintOUSG = "63f96bd3b9dbc600017afa4e",
+e.PostRedeemOUSG = "63f96ec0822def0001ff4248",
+e.PostConvertOUSG = "661fe6eb8615400001c9902b",
+e.PostMintUSDY = "648a1a070e3b66000194273f",
+e.PostRedeemUSDY = "64de2a293fea260001e23a43",
+e.PostBridge = "6538153f4d566800010ab6a5",
+
+
+
+
+let {data: {data: n}} = await k.A.get("".concat("https://scan.layerzero-api.com/v1/messages/wallet/").concat(e.toLowerCase(), "?limit=100"))
+            ETHEREUM: 20,
+            MANTLE: 65,
+            ARBITRUM: 25
+
+
+
+
+
+
+
+(function(){var w=window,C='___grecaptcha_cfg',cfg=w[C]=w[C]||{},N='grecaptcha';var gr=w[N]=w[N]||{};gr.ready=gr.ready||function(f){(cfg['fns']=cfg['fns']||[]).push(f);};w['__recaptcha_api']='https://www.google.com/recaptcha/api2/';(cfg['render']=cfg['render']||[]).push('explicit');(cfg['onload']=cfg['onload']||[]).push('onloadcallback');(cfg['clr']=cfg['clr']||[]).push('true');w['__google_recaptcha_client']=true;var d=document,po=d.createElement('script');po.type='text/javascript';po.async=true; po.charset='utf-8';var v=w.navigator,m=d.createElement('meta');m.httpEquiv='origin-trial';m.content='A/kargTFyk8MR5ueravczef/wIlTkbVk1qXQesp39nV+xNECPdLBVeYffxrM8TmZT6RArWGQVCJ0LRivD7glcAUAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9';if(v&&v.cookieDeprecationLabel){v.cookieDeprecationLabel.getValue().then(function(l){if(l!=='treatment_1.1'&&l!=='treatment_1.2'&&l!=='control_1.1'){d.head.prepend(m);}});}else{d.head.prepend(m);}po.src='https://www.gstatic.com/recaptcha/releases/EGO3I7Q26cZ-jBw3BEtzIx7-/recaptcha__en.js';po.crossOrigin='anonymous';po.integrity='sha384-61VR//KO5vDNAFE1O0P7MzEOKj68zRELxJeYIL5DD4Cj1hdU5Cro7XZfUD04Ca7S';var e=d.querySelector('script[nonce]'),n=e&&(e['nonce']||e.getAttribute('nonce'));if(n){po.setAttribute('nonce',n);}var s=d.getElementsByTagName('script')[0];s.parentNode.insertBefore(po, s);})();
+
+
+
+
+
+
+:"address","name":"newOwner","type":"address"}],"name":"swapOwner","outputs":[],"stateMutability":"nonpayable","type":"function"},{"stateMutability":"payable","type":"receive"}]}')},65247:e=>{"use strict";e.exports=JSON.parse('{"released":true,"contractName":"GnosisSafeL2","version":"1.3.0","deployments":{"canonical":{"address":"0x3E5c63644E683549055b9Be8653de26E0B4CD36E","codeHash":"0x21842597390c4c6e3c1239e434a682b054bd9548eee5e9b1d6a4482731023c0f"},"eip155":{"address":"0xfb1bffC9d739B8D520DaF37dF666da4C687191EA","codeHash":"0x21842597390c4c6e3c1239e434a682b054bd9548eee5e9b1d6a4482731023c0f"},"zksync":{"address":"0x1727c2c531cf966f902E5927b98490fDFb3b2b70","codeHash":"0xe2ca068330339d608367d83a0b25545efe39e619098597699ab8ff828cb1ddd8"}},
+":[{"internalType":"bytes4","name":"magicValue","type":"bytes4"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"bytes","name":"data","type":"bytes"},{"internalType":"bytes","name":"signature","type":"bytes"}],"name":"isValidSignature","outputs":[{"internalType":"bytes4","name":"magicValue","type":"bytes4"}],"stateMutability":"view","type":"function"}]}')},91634:e=>{"use strict";e.exports=JSON.parse('{"released":true,"contractName":"SafeWebAuthnSignerFactory","version":"0.2.1","networkAddresses":{"1":"0x1d31F259eE307358a26dFb23EB365939E8641195","10":"0x1d31F259eE307358a26dFb23EB365939E8641195","137":"0x1d31F259eE307358a26dFb23EB365939E8641195","4078":"0x1d31F259eE307358a26dFb23EB365939E8641195","8453":"0x1d31F259eE307358a26dFb23EB365939E8641195","42161":"0x1d31F259eE307358a26dFb23EB365939E8641195","80002":"0x1d31F259eE307358a26dFb23EB365939E8641195","84532":"0x1d31F259eE307358a26dFb23EB365939E8641195","421614":"0x1d31F259eE307358a26dFb23EB365939E8641195","11155111":"0x1d31F259eE307358a26dFb23EB365939E8641195","11155420":"0x1d31F259eE307358a26dFb23EB365939E8641195"},"abi":[{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"signer","type":"address"},{"indexed":false,"internalType":"uint256","name":"x","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"y","type":"uint256"},{"indexed":false,"internalType":"P256.Verifiers","
+
+
+
+
+Ethereum	https://eth-mainnet.alchemyapi.io/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H	WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+Polygon	https://polygon-mainnet.g.alchemy.com/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H	WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+Mantle	https://mantle-mainnet.g.alchemy.com/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H	WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+Arbitrum	https://arb-mainnet.g.alchemy.com/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H	WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+
+/api/accounts/cookie
+/api/contact_us
+
+/api/subscribe
+
+
+http://localhost:3000/api/auth
+
+Ethereum Mainnet:
+
+URL: https://eth-mainnet.alchemyapi.io/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+API Key: WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+Polygon Mainnet:
+
+URL: https://polygon-mainnet.g.alchemy.com/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+API Key: WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+Mantle Mainnet:
+
+URL: https://mantle-mainnet.g.alchemy.com/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+API Key: WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+Arbitrum Mainnet:
+
+URL: https://arb-mainnet.g.alchemy.com/v2/WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+API Key: WiZBcp0mRA23Nqto0VtvDu9Rmd0nay3H
+
+
+
+
+
+
+
+
+
