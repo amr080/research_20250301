@@ -1,3 +1,5 @@
+somehow hosted website was indexed + working. 
+
 
 GET 
 https://status.polymarket.com/summary.json
@@ -91,6 +93,115 @@ data-api.polymarket.com
 GET
 :path:
 /trades?limit=10&filterType=CASH&filterAmount=1
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-US,en;q=0.9
+cache-control:
+no-cache
+dnt:
+1
+origin:
+https://xft-prediction.vercel.app
+pragma:
+no-cache
+priority:
+u=1, i
+referer:
+https://xft-prediction.vercel.app/
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 CrKey/1.54.250320 Edg/134.0.0.0
+
+
+
+:authority:
+browser-intake-datadoghq.eu
+:method:
+POST
+:path:
+/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A5.10.0%2Capi%3Afetch%2Cservice%3Apolymarket.web%2Cversion%3A2.0.1&dd-api-key=pubba3a492eaf8818bf75ed2ad3b5710271&dd-evp-origin-version=5.10.0&dd-evp-origin=browser&dd-request-id=dcd9db88-9c39-4b7e-82e7-0cb595981c1e
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-US,en;q=0.9
+cache-control:
+no-cache
+content-length:
+16304
+content-type:
+text/plain;charset=UTF-8
+dnt:
+1
+origin:
+https://xft-prediction.vercel.app
+pragma:
+no-cache
+priority:
+u=1, i
+referer:
+https://xft-prediction.vercel.app/
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+
+
+
+
+
+access-control-allow-origin:
+*
+age:
+73
+cache-control:
+public
+content-encoding:
+br
+content-type:
+application/json
+date:
+Wed, 12 Mar 2025 01:09:43 GMT
+referrer-policy:
+strict-origin-when-cross-origin
+server:
+Vercel
+
+strict-transport-security:
+max-age=63072000; includeSubDomains; preload
+vary:
+RSC, Next-Router-State-Tree, Next-Router-Prefetch
+x-content-type-options:
+nosniff
+x-matched-path:
+/api/summary.json
+x-vercel-cache:
+HIT
+x-vercel-id:
+iad1::iad1::zkvqv-1741741857150-5fb818ab0ede
+
+:authority:
+status.polymarket.com
+:method:
+GET
+:path:
+/summary.json
 :scheme:
 https
 accept:
