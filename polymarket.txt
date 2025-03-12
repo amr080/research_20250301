@@ -1,0 +1,121 @@
+
+GET 
+https://status.polymarket.com/summary.json
+
+
+
+GET
+https://data-api.polymarket.com/trades?limit=10&filterType=CASH&filterAmount=1
+
+payload
+limit=10&filterType=CASH&filterAmount=1
+
+GET
+https://lb-api.polymarket.com/volume?window=7d&limit=20
+
+payload 
+window=7d&limit=20
+
+
+https://polygon-mainnet.g.alchemy.com/v2/
+
+
+
+
+POST
+https://browser-intake-datadoghq.eu/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A5.10.0%2Capi%3Afetch%2Cservice%3Apolymarket.web%2Cversion%3A2.0.1&dd-api-key=pubba3a492eaf8818bf75ed2ad3b5710271&dd-evp-origin-version=5.10.0&dd-evp-origin=browser&dd-request-id=e636b6fb-2a93-4c51-9463-2bda67567450
+
+
+
+PAYLOAD
+ddsource=browser&ddtags=sdk_version%3A5.10.0%2Capi%3Afetch%2Cservice%3Apolymarket.web%2Cversion%3A2.0.1&dd-api-key=pubba3a492eaf8818bf75ed2ad3b5710271&dd-evp-origin-version=5.10.0&dd-evp-origin=browser&dd-request-id=e636b6fb-2a93-4c51-9463-2bda67567450
+{"service":"polymarket.web","session_id":"0cd94d56-988b-4fd6-9708-e7fc3cf895dc","view":{"referrer":"https://www.bing.com/","url":"https://xft-prediction.vercel.app/"},"date":1741741856743,"message":"ImageWithFallback: image failed to load","status":"error","origin":"logger","error":{"_reactName":"onError","_targetInst":null,"type":"error","nativeEvent":{"isTrusted":true},"target":"[HTMLImageElement]","currentTarget":"[HTMLImageElement]","eventPhase":2,"bubbles":false,"cancelable":false,"timeStamp":816910.5,"defaultPrevented":false,"isTrusted":true,"isDefaultPrevented":"[Function] nK","isPropagationStopped":"[Function] nK"},"image":"/images/featured/UsElectionForecast.png","fallback":"/images/market-image-404.png"}
+{"service":"polymarket.web","session_id":"0cd94d56-988b-4fd6-9708-e7fc3cf895dc","view":{"referrer":"https://www.bing.com/","url":"https://xft-prediction.vercel.app/"},"date":1741741856748,"message":"ImageWithFallback: image failed to load","status":"error","origin":"logger","error":{"_reactName":"onError","_targetInst":null,"type":"error","nativeEvent":{"isTrusted":true},"target":"[HTMLImageElement]","currentTarget":"[HTMLImageElement]","eventPhase":2,"bubbles":false,"cancelable":false,"timeStamp":816915.3000000119,"defaultPrevented":false,"isTrusted":true,"isDefaultPrevented":"[Function] nK","isPropagationStopped":"[Function] nK"},"image":"/images/featured/2024election.png","fallback":"/images/market-image-404.png"}
+{"service":"polymarket.web","session_id":"0cd94d56-988b-4fd6-9708-e7fc3cf895dc","view":{"referrer":"https://www.bing.com/","url":"https://xft-prediction.vercel.app/"},"date":1741741856748,"message":"ImageWithFallback: image failed to load","status":"error","origin":"logger","error":{"_reactName":"onError","_targetInst":null,"type":"error","nativeEvent":{"isTrusted":true},"target":"[HTMLImageElement]","currentTarget":"[HTMLImageElement]","eventPhase":2,"bubbles":false,"cancelable":false,"timeStamp":816915.8000000119,"defaultPrevented":false,"isTrusted":true,"isDefaultPrevented":"[Function] nK","isPropagationStopped":"[Function] nK"},"image":"https://source.boringavatars.com/marble/120/0x55b4af6a1cff148a307cad8ad098206a028e80ea?colors=2F80ED,9B51E0,27AE60,F2994A,EB5757,48B6AC,364A5C","fallback":"/images/market-image-404.png"}
+{"service":"polymarket.web","session_id":"0cd94d56-988b-4fd6-9708-e7fc3cf895dc","view":{"referrer":"https://www.bing.com/","url":"https://xft-prediction.vercel.app/"},"date":1741741856749,"message":"ImageWithFallback: image failed to load","status":"error","origin":"logger","error":{"_reactName":"onError","_targetInst":null,"type":"error","nativeEvent":{"isTrusted":true},"target":"[HTMLImageElement]","currentTarget":"[HTMLImageElement]","eventPhase":2,"bubbles":false,"cancelable":false,"timeStamp":816916.900000006,"defaultPrevented":false,"isTrusted":true,"isDefaultPrevented":"[Function] nK","isPropagationStopped":"[Function] nK"},"image":"https://source.boringavatars.com/marble/120/0x2d27e4d20f3b8a2ee3bShow more
+
+QUERY
+ddsource=browser&ddtags=sdk_version%3A5.10.0%2Capi%3Afetch%2Cservice%3Apolymarket.web%2Cversion%3A2.0.1&dd-api-key=pubba3a492eaf8818bf75ed2ad3b5710271&dd-evp-origin-version=5.10.0&dd-evp-origin=browser&dd-request-id=e636b6fb-2a93-4c51-9463-2bda67567450
+
+
+{"request_id":"e636b6fb-2a93-4c51-9463-2bda67567450"}
+
+
+
+
+
+
+
+Request URL:
+https://data-api.polymarket.com/trades?limit=10&filterType=CASH&filterAmount=1
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:x
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-credentials:
+true
+access-control-allow-origin:
+*
+cf-cache-status:
+DYNAMIC
+cf-ray:
+91ef6a357b9b0641-IAD
+content-encoding:
+gzip
+content-type:
+application/json
+date:
+Wed, 12 Mar 2025 01:10:58 GMT
+server:
+cloudflare
+strict-transport-security:
+max-age=7776000; includeSubDomains
+vary:
+Accept-Encoding
+vary:
+Origin
+x-rate-limit-duration:
+1
+x-rate-limit-limit:
+5.00
+x-rate-limit-request-forwarded-for:
+x
+x-rate-limit-request-remote-addr:
+x
+:authority:
+data-api.polymarket.com
+:method:
+GET
+:path:
+/trades?limit=10&filterType=CASH&filterAmount=1
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-US,en;q=0.9
+cache-control:
+no-cache
+dnt:
+1
+origin:
+https://xft-prediction.vercel.app
+pragma:
+no-cache
+priority:
+u=1, i
+referer:
+https://xft-prediction.vercel.app/
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 CrKey/1.54.250320 Edg/134.0.0.0
